@@ -127,6 +127,8 @@ We welcome contributions from the community! Please read our contributing guidel
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
+<img width="1365" height="268" alt="image" src="https://github.com/user-attachments/assets/ec36976f-d82e-488d-87aa-b4bb676195b1" />
+
 
 For questions, suggestions, or partnerships, please contact the Block Supply development team.
 
